@@ -5,7 +5,7 @@ Originally this was a combination of the games of the gauntlets for each new Pea
 Time Control: 10+0.1  
 Hash: 64MB  
 Openings: [IM_4mvs.pgn](https://www.sp-cc.de/downloads--links.htm)
-Ratings calculated using Ordo, anchored to average of 2800
+Ratings calculated using Ordo, anchored to average of 2890
 Engines with less than 300 games not shown
 
 ```
